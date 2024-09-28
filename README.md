@@ -25,15 +25,16 @@ Thonny, Arduino
 
 ## Enlaces de la simulacion de wokwi
 
-<img src="https://github.com/user-attachments/assets/1ef66ef5-af4d-4a7f-99de-f0fb198d03c8" width="500"/>
+<img src="https://github.com/user-attachments/assets/6e188e03-9027-463a-b2ff-db7b660af65e" width="500"/>
 
 **Enlace de simulacion de wokwi**
 
 https://wokwi.com/projects/410143367634478081
+https://wokwi.com/projects/410225767067418625
 
 **Enlace al video de la simulacion en wokwi**
 
-
+https://drive.google.com/drive/folders/1yyxnzDqTSxlsEESnKMy7SJt8MDnK1TG-?usp=sharing
 
 ## Imagen de los examenes de cisco
 Módulo 1
